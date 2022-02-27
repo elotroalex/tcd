@@ -1,17 +1,27 @@
 - title: Home
   url: /
-- title: Participants
-  url: /participants/
+- title: Artist Program
+  url: /artists/
 - title: The Team
   url: /team/
 # - title: Live Feed
 #   url: /live-feed/
-- title: Program
+- title: Archive
   url: \#
   sublinks:
-    - title: "Schedule"
-      url: /schedule/
-    - title: "Grainger"
-      url: /grainger/
-    - title: "CariDiScho"
-      url: /directory/
+    - title: "TCD I"
+      url: /#
+    - title: "TCD II"
+      url: /#
+    - title: "TCD III"
+      url: /#
+    - title: "TCD IV"
+      url: /#
+    - title: "TCD V"
+      url: /#
+    - title: "TCD VI"
+      url: /#
+    - title: "TCD VII"
+      url: /#
+    - title: "TCD VIII"
+      url: /#
