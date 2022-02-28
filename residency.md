@@ -54,10 +54,9 @@ from the Caribbean and its diasporas**, with a preference for applicants
 living and working in the Caribbean region. Applicants must be **over
 the age of 18** on 31 March, 2022.
 
-Each **application must include a completed online form**, available on
-this page below.
+Each **application should complete the following [online form](https://forms.gle/fVv5N6ePJXbGDzJk6)**.
 
-In addition, **please send a PDF** to [thecaribbeandigital@gmail.com](mailto:thecaribbeandigital@gmail.com) containing the
+In addition, **please submit a PDF** in the Google Form containing the
 following:
 -   a description of the work the artist proposes to develop during the residency. This may be a new project or an extension of existing work in progress (max. 400 words);
 -   a short statement explaining how the artist's proposed work would benefit from dialogue and engagement with TCD's Digital Humanities network (max. 200 words);
@@ -67,7 +66,7 @@ following:
 
 NB: the artist's application package **must be saved as a PDF** and the
 five elements listed above **must be contained in a single file**.
-Please do not send multiple files or use other file formats.
+Please do not submit multiple files or use other file formats in the form.
 
 The inaugural Caribbean Digital Virtual Artist's Residency opens for
 applications on 1 March, 2022. The application deadline is 31 March, 2022. Late applications will not be considered.
@@ -85,5 +84,4 @@ For any queries about eligibility requirements or the application
 process, please contact the residency administrators at
 [thecaribbeandigital@gmail.com](mailto:thecaribbeandigital@gmail.com).
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdLiLITgAzjcpi7PIFChzOPaH34hWnAxBgbcDBTxFmbdBtWyw/viewform?embedded=true" width="100%" height="1897" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
