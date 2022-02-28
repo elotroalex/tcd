@@ -1,7 +1,7 @@
 - title: Home
   url: /
-- title: Artist Program
-  url: /artists/
+- title: Artist Residency
+  url: /residency/
 - title: The Team
   url: /team/
 # - title: Live Feed
@@ -10,18 +10,18 @@
   url: \#
   sublinks:
     - title: "TCD I"
-      url: /#
+      url: https://wayback.archive-it.org/1914/20151224034027/http://caribbeandigital.cdrs.columbia.edu/
     - title: "TCD II"
-      url: /#
+      url: http://caribbeandigitalnyc.net/2015/
     - title: "TCD III"
-      url: /#
+      url: http://caribbeandigitalnyc.net/2016/
     - title: "TCD IV"
-      url: /#
+      url: http://caribbeandigitalnyc.net/2017/
     - title: "TCD V"
-      url: /#
+      url: http://caribbeandigitalnyc.net/2018/
     - title: "TCD VI"
-      url: /#
+      url: http://caribbeandigitalnyc.net/2019/
     - title: "TCD VII"
-      url: /#
+      url: http://caribbeandigitalnyc.net/2020/
     - title: "TCD VIII"
-      url: /#
+      url: http://caribbeandigitalnyc.net/2021/
