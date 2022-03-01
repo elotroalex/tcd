@@ -193,15 +193,17 @@ nav ul {
 
 button {
   font-size: 1.2rem;
-  background-color: lightgray;
+  background-color: $brand-color;
   color: white;
   border-radius: 10px;
   padding: 1rem 2rem;
   cursor: pointer;
+  a {color: white;
+  }
 }
 
 button:hover {
-  background-color: $brand-color;
+  background-color: #C10000;
   a {
     color: white;
   }

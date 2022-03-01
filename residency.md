@@ -66,8 +66,7 @@ NB: the artist's application package **must be saved as a PDF** and the
 five elements listed above **must be contained in a single file**.
 Please do not submit multiple files or use other file formats in the form.
 
-<br>
-<p class="aligncenter"><button><a href="https://forms.gle/fVv5N6ePJXbGDzJk6" target="_blank">Fill Out the Form</a></button></p>
+<p class="aligncenter"><button><a href="https://forms.gle/fVv5N6ePJXbGDzJk6" target="_blank">Application Form</a></button></p>
 <br>
 
 The inaugural Caribbean Digital Virtual Artist's Residency opens for
