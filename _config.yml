@@ -19,8 +19,6 @@ github_username: elotroalex
 permalink: pretty
 
 collections:
-  program:
-    output: true
 
 # Build settings
 markdown: kramdown
