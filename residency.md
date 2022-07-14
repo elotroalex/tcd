@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Virtual Artist's Residency CFP
-permalink: /cfp/
+title: Artist Residency
+permalink: /residency/
 ---
 
 
@@ -69,3 +69,4 @@ curates and hosts artists' projects and residencies, with the support of
 an international network of collaborators.
 
 <img src="{{site.baseurl}}/images/shareef.jpg" alt="Art by Marina Shareef depicting a face shooting red curtains out of its eyes" width="100%"/>
+<small><em>Eye-dentity Theft</em> (2019) by Marinna Shareef</small>

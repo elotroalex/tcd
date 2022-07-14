@@ -1,13 +1,9 @@
 - title: Home
   url: /
-# - title: News
-#   url: /news/
 - title: Artist Residency
   url: /residency/
 - title: The Team
   url: /team/
-# - title: Live Feed
-#   url: /live-feed/
 - title: Past Events
   url: \#
   sublinks:
