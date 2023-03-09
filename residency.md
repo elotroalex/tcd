@@ -110,7 +110,7 @@ Nonimmigrant B-1 visa. If needed, the selected artist should apply for a
 B-1 visa by following the steps listed on
 [travel.state.gov](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html#:~:text=Visitor%20visas%20are%20nonimmigrant%20visas,1%2FB%2D2).)
 by June 1, 2023 and will receive up to \$250 as reimbursement towards
-their B-1 visa application.
+their B-1 visa application along with an invitation letter in support of their visa application.
 
 A jury, including members of the Alice Yard collective and TCD, will
 assess applications. The successful artist will be announced by the end
@@ -244,7 +244,7 @@ demander un visa non-immigrant B-1. Si nécessaire, l'artiste sélectionné
 doit demander un visa B-1 en suivant les étapes indiquées sur
 [travel.state.gov](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html#:~:text=Visitor%20visas%20are%20nonimmigrant%20visas,1%2FB%2D2).)
 avant le 1er juin 2023 et recevra jusqu'à 250 \$ à titre de
-remboursement pour sa demande de visa B-1.
+remboursement pour sa demande de visa B-1 accompagnée d'une lettre d'invitation à l'appui de leur demande de visa.
 
 Un jury, composé de membres du collectif Alice Yard et de TCD, évaluera
 les candidatures. L'artiste retenu sera annoncé d'ici la fin avril 2023
@@ -377,7 +377,7 @@ seleccionado debe solicitar una visa B-1 siguiendo los pasos enumerados
 en
 [travel.state.gov](https://travel.state.gov/content/travel.html)
 antes del 1 de junio de 2023 y recibirá hasta \$250 como reembolso por
-su solicitud de visa B-1.
+su solicitud de visa B-1 junto con una carta de invitación en apoyo de su solicitud de visa.
 
 Un jurado que incluye miembros del colectivo Alice Yard y TCD, evaluará
 las solicitudes. El artista ganador se anunciará a finales de abril de
