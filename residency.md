@@ -112,10 +112,7 @@ B-1 visa by following the steps listed on
 by June 1, 2023 and will receive up to \$250 as reimbursement towards
 their B-1 visa application along with an invitation letter in support of their visa application.
 
-A jury, including members of the Alice Yard collective and TCD, will
-assess applications. The successful artist will be announced by the end
-of April 2023, and the residency will run from June 15 to December 15,
-2023. The recipient will present the work done during the residency at
+A jury, including members of the Alice Yard collective and TCD, will assess applications. The successful artist will be announced by the end of May 2023, and the residency will run from June 15 to December 15. The recipient will present the work done during the residency at
 TCD's annual conference in December 2023. The artist will retain the
 ownership and copyright of their work, but they must grant TCD
 non-exclusive rights to present and archive the work on their website
@@ -380,7 +377,7 @@ antes del 1 de junio de 2023 y recibirá hasta \$250 como reembolso por
 su solicitud de visa B-1 junto con una carta de invitación en apoyo de su solicitud de visa.
 
 Un jurado que incluye miembros del colectivo Alice Yard y TCD, evaluará
-las solicitudes. El artista ganador se anunciará a finales de abril de
+las solicitudes. El artista ganador se anunciará a finales de mayo de
 2023 y la residencia se extenderá del 15 de junio al 15 de diciembre de
 2023. El ganador presentará el trabajo realizado durante la residencia
 en la conferencia anual del TCD en diciembre de 2023. El artista

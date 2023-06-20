@@ -1,8 +1,48 @@
 ---
 layout: page
-title: Virtual Artist's Residency CFP
+title: TCDX Call for Papers
 permalink: /cfp/
 ---
+
+## Call for Papers and Projects | TCDX 2023
+
+### The Caribbean Digital X
+
+8 December 2023  
+Yale University
+New Haven, Connecticut, USA
+
+**Deadline for proposals:** 31 August 2023
+
+Conference website:
+[[caribbeandigitalnyc.net]{.underline}](http://caribbeandigitalnyc.net)
+
+Beginning in 2014, The Caribbean Digital has sought to create a generative, multidisciplinary space within which to engage critically with the digital as practice and as historicized societal phenomenon, reflecting on the challenges and opportunities presented by the media technologies that evermore intensely reconfigure the social and geo-political contours of the Caribbean and its diasporas. We are thrilled, in the seventh iteration of this gathering, to site these conversations once again in the physical space of the region via our collaboration with Drs. Mirerza Gonzalez Velez and Nadjah Riosand the University of Puerto Rico.
+
+The continued need for rigorous and ethical engagement with the digital "revolution" is especially immediate among the people of the Caribbean and its diasporas. Information technology remains a significant way in which people frame pressing social problems and political aspirations. Aesthetic media like photography and painting---because they are relatively inexpensive and do not rely on literacy or formal training---are popular among multiple constituencies. Moreover, the Internet is analogous in important ways to the Caribbean itself as dynamic and fluid cultural space: it is generated from disparate places and by disparate peoples; it challenges fundamentally the geographical and physical barriers that disrupt or disallow connection; and it places others and elsewheres in relentless relation. Yet while we celebrate these opportunities for connectedness, we also must make certain that the digital realm undermine and confront rather than re-inscribe forms of silencing and exclusion in the Caribbean.
+
+Following on conversations that animated past events\[archive page\] we look forward our tenth public forum to continuing our critical engagement with presentations that explicitly evoke:
+
+-   the transatlantic, collaborative, and/or interdisciplinary possibilities and limitations of digital technologies in the Caribbean;
+
+-   metaphorical linkages between the digital and such Caribbean philosophical, ethical, and aesthetic concepts as \"submarine unity,\" the rhizome, Relation, the spiral, repeating islands, creolization, etc.;
+
+-   gendered dimensions of the digital in the Caribbean;
+
+-   the connection between digital technologies and practices of the Caribbean "folk";
+
+-   specific engagements with digital spaces and/or theories by individual Caribbean artists and intellectuals;
+
+-   the ways in which digital technologies have impacted or shaped understandings of specific Caribbean political phenomena (e.g. sovereignty, reparations, transnationalism, migration, etc.);
+
+-   structural means of facilitating broad engagement, communication, and accessibility in the Caribbean digital context (cultivation of multilingual spaces, attentiveness to the material/hardware limitations of various populations);
+
+-   the ways the digital has brought welcome bibliographic, philological and curatorial attention to endangered or neglected archives in the region.
+
+Both traditional conference papers and integrally multimedia presentations are welcome in either Spanish or English. We also welcome virtual synchronous participation by presenters who cannot travel to San Juan to attend the event. Selected participants from this forum will be encouraged to submit their work to [archipelagos journal](http://archipelagosjournal.org), an interactive, born-digital, print-possible, peer-reviewed publication.
+
+Abstracts of 250 words and a short bio should be sent to Alex Gil, Kaiama L. Glover, and Kelly Baker Josephs (thecaribbeandigital@gmail.com) by **31 August 2023**. Successful applicants will be notified by **30 September 2023**.
+
 
 <!-- 
 
