@@ -62,7 +62,13 @@ A jury comprised of the Alice Yard collective and TCD members will assess applic
 
 For any queries about eligibility requirements or the application process, please contact the residency administrators at thecaribbeandigital@gmail.com.
 
-[Application form](https://docs.google.com/forms/d/1E2e05_2wzjYptszrPclHkoVBrJxDdrsQ9PTDMrGN3GY/preview)
+<p class="aligncenter">
+    <a href="https://docs.google.com/forms/d/1E2e05_2wzjYptszrPclHkoVBrJxDdrsQ9PTDMrGN3GY/preview" target="_blank"><button>Apply Here</button></a>
+</p>
+
+<br>
+<hr>
+<br>
 
 ## La résidence d'artiste virtuelle numérique des Caraïbes 2025
 
@@ -124,7 +130,13 @@ Un jury, composé de membres du collectif Alice Yard et de TCD, évaluera les ca
 
 Pour toute question concernant les critères d’éligibilité ou le processus de candidature, veuillez contacter les administrateurs de la résidence à thecaribbeandigital@gmail.com.
 
-[Formulaire de candidature](https://docs.google.com/forms/d/1E2e05_2wzjYptszrPclHkoVBrJxDdrsQ9PTDMrGN3GY/preview)
+<p class="aligncenter">
+    <a href="https://docs.google.com/forms/d/1E2e05_2wzjYptszrPclHkoVBrJxDdrsQ9PTDMrGN3GY/preview" target="_blank"><button>Formulaire de candidature</button></a>
+</p>
+
+<br>
+<hr>
+<br>
 
 ## La Residencia de Artistas Virtuales Digitales del Caribe 2025
 
@@ -185,4 +197,6 @@ Un jurado que incluye miembros del colectivo Alice Yard y The Caribbean Digital 
 
 Para cualquier consulta sobre elegibilidad requisitos de residencia o el proceso de solicitud, comuníquese con los administradores de residencia en thecaribbeandigital@gmail.com
 
-[Formulario de aplicación](https://docs.google.com/forms/d/1E2e05_2wzjYptszrPclHkoVBrJxDdrsQ9PTDMrGN3GY/preview)
+<p class="aligncenter mb-5">
+    <a href="https://docs.google.com/forms/d/1E2e05_2wzjYptszrPclHkoVBrJxDdrsQ9PTDMrGN3GY/preview" target="_blank"><button>Llenar formulario</button></a>
+</p>
