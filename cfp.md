@@ -98,7 +98,10 @@ engage with the spirit and content of Dr. Nieves' foundational work.
 
 We welcome abstracts of 250-300 words in length. Abstracts should
 include name, academic affiliation, contact information, and short bios.
-Please submit [using this form] (requires Google
-sign-in): [](https://forms.gle/1iB8eZ8F4AhW4a4t8) by **30 June 2025**. Successful applicants will be notified by **30
+Please submit [using this form](https://forms.gle/1iB8eZ8F4AhW4a4t8) (requires Google sign-in). by **30 June 2025**. Successful applicants will be notified by **30
 August 2025**. Travel and accommodations for conference presenters will
 be covered.
+
+  <p class="aligncenter">
+    <a href="https://forms.gle/1iB8eZ8F4AhW4a4t8" target="_blank"><button>Google Form</button></a>
+  </p>
